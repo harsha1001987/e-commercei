@@ -63,3 +63,20 @@ The frontend provides a responsive and user-friendly shopping experience.
  # Milestone-18
  Created an endpoint to receive request from cart page.
  Created an backend endpoint to fetch all the products inside cart with user mail.
+ # Milestone-19
+ created cart frontend page and display the products
+ For each product add an option to increase and decrease quantity using + and - buttons.
+ Created an Backend endpoint for increase and decrease quantity
+ # Milestone-20
+ Created an Backend endpoint that will sent user data
+ created frontend profile page
+ displayed profile photo, name and email in one section
+ In another section displayed address and add an button called "Add address"
+ If there are no address displayed "No address found"
+ # Milestone-21
+ created address form frontend page
+ Created an state that will store input address
+ when we click on add address in profile it should navigate to this form page.
+ # Milestone-22
+ created an endpoint that will receive the address from address form in frontend
+ Added the address to the address array inside user collection.
