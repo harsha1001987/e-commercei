@@ -80,3 +80,8 @@ The frontend provides a responsive and user-friendly shopping experience.
  # Milestone-22
  created an endpoint that will receive the address from address form in frontend
  Added the address to the address array inside user collection.
+# Milestone-23
+ Added a button inside cart called "Place order"
+ Created a select address page where we will display all the address and ask to select delivery address.
+ Wrote mongoose schema for storing orders details.
+
