@@ -1,4 +1,3 @@
-
 # Milestone_1
 This is an e-commerce platform that allows users to browse products, add them to their cart, and securely complete purchases.
 It supports user authentication, product search, and payment processing. 
@@ -64,24 +63,22 @@ The frontend provides a responsive and user-friendly shopping experience.
  Created an endpoint to receive request from cart page.
  Created an backend endpoint to fetch all the products inside cart with user mail.
  # Milestone-19
- created cart frontend page and display the products
- For each product add an option to increase and decrease quantity using + and - buttons.
- Created an Backend endpoint for increase and decrease quantity
+ Created a backend endpoint that will send all the user data using mail.
+ Created a frontend profile page that will display all the user data (eg.display profile photo, name, mail and addresses)
  # Milestone-20
- Created an Backend endpoint that will sent user data
- created frontend profile page
- displayed profile photo, name and email in one section
- In another section displayed address and add an button called "Add address"
- If there are no address displayed "No address found"
+ Created a backend endpoint that will send all the user data using mail.
+ Created a frontend profile page that will display all the user data(displays profile photo, name, mail and addresses.)
  # Milestone-21
- created address form frontend page
- Created an state that will store input address
- when we click on add address in profile it should navigate to this form page.
+ Created an frontend form that will will take address,take country, city, address1, address2, zip code, address type
  # Milestone-22
- created an endpoint that will receive the address from address form in frontend
- Added the address to the address array inside user collection.
-# Milestone-23
+ Created a backend endpoint that will store the address inside user profile in database.
+ # Milestone-23
  Added a button inside cart called "Place order"
  Created a select address page where we will display all the address and ask to select delivery address.
  Wrote mongoose schema for storing orders details.
-
+ # Milestone-24
+ Created an order conformation page.
+ # Milestone-25
+ Created an backend endpoint that will help in placing the order.
+ # Milestone-26
+ Created an backend endpoint that will help getting all the orders of the user.
