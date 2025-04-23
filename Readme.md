@@ -82,3 +82,24 @@ The frontend provides a responsive and user-friendly shopping experience.
  Created an backend endpoint that will help in placing the order.
  # Milestone-26
  Created an backend endpoint that will help getting all the orders of the user.
+ # Milestone-27
+ Created a frontend page that will display all the user orders.
+ # Milestone-28
+ Added cancel button in my-orders and created an backend endpoint for cancel order.
+ # Milestone-29
+ Added online payment gateway to our application using Paypal api.
+ # Milestone-30
+ Implemented online payment using PayPal API using the client key we created earlier.
+ # Milestone-31
+ Implemented redux store to store all global states
+ # Milestone-32
+ In Login page we used Dispatch method to store the mail inside global state
+ In all the remaining pages acc the mail stored in global state using useSelector
+ # Milestone-33
+ Downloaded jsonwebtoken package using NPM
+ Used sign method to create an JWT token with mail and ID
+ Gave maxAge to set expire time
+ Added the cookie inside the response that helps you to store the cookie inside browser.
+ # Milestone-34
+ Got the token from the browser cookie and send it to the server
+ In backend wrote a middleware function to validate that JWT token
